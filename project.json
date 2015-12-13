@@ -1,0 +1,34 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","external"],
+
+    "jsList" : [
+        "src/resource.js",
+
+        "src/config/GameConfig.js",
+
+        "src/gamePlay/scene/GamePlay.js",
+
+        "src/gamePlay/layer/ChipmunkLayer.js",
+
+        "src/gamePlay/layer/GPBackgroundLayer.js",
+        "src/gamePlay/layer/GPTurnPlateLayer.js",
+        "src/gamePlay/layer/GPShootLayer.js",
+        "src/gamePlay/layer/GPGameOver.js",
+
+        "src/gamePlay/sprite/TurnPlateSprite.js",
+        "src/gamePlay/sprite/HostageSprite.js",
+        "src/gamePlay/sprite/HandCuffSprite.js",
+        "src/gamePlay/sprite/DartSprite.js"
+
+    ]
+}

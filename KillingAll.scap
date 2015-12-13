@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="30B0A134-8034-4EF2-AC37-AAB40E153336" Version="1.1">
+   <Notes>
+      <Note Width="39.3311" FontSize="12" ID="0" Position="811.8,25.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String> Play </String>
+         <ConnectedNoteIDs>1, 4, 8, 10, 15</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.3633" FontSize="12" ID="1" Position="107.0,110.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String> Background (0)</String>
+         <ConnectedNoteIDs>0, 7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="110.205" FontSize="12" ID="3" Position="463.2,207.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>matchstick men(3)</String>
+         <ConnectedNoteIDs>10, 13, 23-24</ConnectedNoteIDs>
+      </Note>
+      <Note Width="80.1514" FontSize="12" ID="7" Position="115.6,203.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String> background </String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="79.3945" FontSize="12" ID="10" Position="481.2,110.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Turn plate(1)</String>
+         <ConnectedNoteIDs>0, 2-3, 12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="78.7109" FontSize="12" ID="12" Position="227.3,204.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String> turn plate(2)</String>
+         <ConnectedNoteIDs>10, 22</ConnectedNoteIDs>
+      </Note>
+      <Note Width="93.1641" FontSize="12" ID="4" Position="786.0,103.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Shoot action(5)</String>
+         <ConnectedNoteIDs>0, 5, 11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="114.832" FontSize="12" ID="15" Position="1048.4,106.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Score and time(10)</String>
+         <ConnectedNoteIDs>0, 16-17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="92.4561" FontSize="12" ID="8" Position="1314.1,107.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Game over(15)</String>
+         <ConnectedNoteIDs>0, 19-20</ConnectedNoteIDs>
+      </Note>
+      <Note Width="53.5645" FontSize="12" ID="2" Position="634.4,208.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>blood(4)</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="84.0454" FontSize="12" ID="6" Position="9.4,107.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>layer(Zorder):</String>
+      </Note>
+      <Note Width="44.4946" FontSize="12" ID="9" Position="9.4,25.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>scene:</String>
+      </Note>
+      <Note Width="87.5366" FontSize="12" ID="14" Position="3.9,200.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>sprite(Zorder):</String>
+      </Note>
+      <Note Width="40.9912" FontSize="12" ID="5" Position="759.4,207.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>sword</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="51.4893" FontSize="12" ID="11" Position="850.8,204.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>corpses</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="38.1958" FontSize="12" ID="16" Position="1009.4,207.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>score</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note Width="31.189" FontSize="12" ID="17" Position="1161.7,209.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>time</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note Width="46.5942" FontSize="12" ID="19" Position="1271.1,206.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>display</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="64.7705" FontSize="12" ID="20" Position="1386.7,207.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>play again</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="61.9629" FontSize="12" ID="21" Position="3.1,288.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>subsprite:</String>
+      </Note>
+      <Note Width="108.557" FontSize="12" ID="22" Position="212.5,289.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>different turn plate</String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="73.8403" FontSize="12" ID="13" Position="364.1,288.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>normal men</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note Width="59.1553" FontSize="12" ID="23" Position="489.8,288.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>time men</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note Width="60.5713" FontSize="12" ID="24" Position="582.0,288.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>slow men</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="2692C90E-35EC-453D-B4F8-066681C2638D" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="3FD13609-448F-4BC0-98C9-07DF2D35A949" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="427D7229-AE12-4DEC-91AB-3C1888228DFD" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="C58FDDD2-B605-492E-AF14-2A2AEDF1702F" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="ABBF91EB-53AE-4702-9869-B6646EBEBD45" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="8E66AB23-0FF5-4FD5-A4EB-B7CCCEABF3FF" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="4627EA1C-7E52-4B26-BADA-00C48357D53E" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="iso-a4" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>
